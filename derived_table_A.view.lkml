@@ -33,7 +33,7 @@ view: derived_table_A{
 
   dimension: rank {}
 
-  dimension: sum_id {}
+#   dimension: sum_id {}
 
 
 }
