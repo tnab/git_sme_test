@@ -1,6 +1,7 @@
 view: derived_table_A{
   derived_table: {
     persist_for: "24 hours"
+    indexes: ["id"]
     sql:
         WITH ranking AS (
         SELECT

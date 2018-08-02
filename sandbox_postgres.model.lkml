@@ -3,7 +3,6 @@ connection: "postgresql_gcp"
 # include all the views
 include: "*.view"
 
-# include all the dashboards
 include: "*.dashboard"
 
 datagroup: sandbox_postgres_default_datagroup {
