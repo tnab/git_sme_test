@@ -31,7 +31,7 @@ view: derived_table_A{
 
   dimension: count_users {}
 
-  dimension: rank {}
+#   dimension: rank {}
 
   dimension: sum_id {}
 
